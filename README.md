@@ -2,6 +2,7 @@
 Public version of my Thermal ML
 Copied on 2/13/2023 as to provide a Copy to Marcus DK
 
+(Open the file to see the useful formatting)
 
 Possibly Worthy to look at files (4 main files)
   /Strat3
